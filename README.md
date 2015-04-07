@@ -1,0 +1,4 @@
+multilanguage-interface-demo是基于multilanguage的一个多语接口demo，当一个多语系统变得复杂时，
+考虑到性能、容错或者耦合性可能需要剥离出来，这时就可以参考该demo。
+
+multilanguage可参考https://github.com/xionghuiCoder/multilanguage
